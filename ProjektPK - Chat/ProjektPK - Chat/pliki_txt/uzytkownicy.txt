@@ -1,0 +1,14 @@
+0 imie nazwisko nickname(login) haslo miasto nr_telefonu email rodzaj_konta ban(1-zbanowane)
+1 Angelika Wariat Melania21 !mela1234 Katowice 636284255 mela@poczta.pl podstawowy 0
+2 Konrad Ostrowski Kony Kongosy37 Nysa 290384890 konygaming@poczta.pl podstawowy 0
+3 Wiktoria Bielanik Bielan FadoLove3 Bialystok 457693703 fadoslaw@poczta.pl moderator 0
+4 Janek Skowron skowronek2115 Rick2115 Tarnobrzeg 143694446 janek.skowron@poczta.pl podstawowy 0
+5 Marcel Swierczek Cieciel Leszy33 Elblag 597556764 pustapuszka@poczta.pl administrator 0
+6 Lucja Szczepak lucyjax lux123 Konin 876238450 konieczyna1303@poczta.pl podstawowy 0
+7 Marcin Ciok bjngf zaq1@WSX Poznan 196049318 marcin.ciok@poczta.pl moderator 0
+8 Percy Duda Kinimod Disney1999! Londyn 853128140 youritspec@poczta.pl podstawowy 0
+9 Daniel Dzialowy Gimpson ArmiaAu Bytom 535211376 dany2121@poczta.pl podstawowy 0
+10 Kamil Noc Azymut NocnaFuria2 Katowice 555333212 kamsnoc@poczta.pl administrator 0
+11 admin admin admin a admin 435567423 admin administrator 0
+12 Marcin Mikolowski Matrix redpill Torun 456687426 email@poczta.pl podstawowy 0
+13 Ola Parzyszek Parzyszkowa niewiem Katowice 543756423 goracafoczka@rura.pl moderator 0
